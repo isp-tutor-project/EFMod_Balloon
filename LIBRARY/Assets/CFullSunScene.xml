@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CFullSunScene" itemID="5abe38ac-00000c48" lastModified="1522416338">
+  <timeline>
+    <DOMTimeline name="CFullSunScene">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/BackgroundHill" selected="true" centerPoint3DY="120.75">
+                  <matrix>
+                    <Matrix ty="120.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/Sun" selected="true" centerPoint3DX="172.05" centerPoint3DY="-119.4">
+                  <matrix>
+                    <Matrix tx="172.05" ty="-119.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Chairs/Chairs/WoodChair Assets/CWoodChairOutline" selected="true" centerPoint3DX="9.95" centerPoint3DY="118.7">
+                  <matrix>
+                    <Matrix tx="9.95" ty="118.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/BalloonOutline" selected="true" centerPoint3DX="56.8" centerPoint3DY="-5.35">
+                  <matrix>
+                    <Matrix tx="56.8" ty="-5.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/CClosedUmbrella" selected="true" centerPoint3DX="-92" centerPoint3DY="-3.35">
+                  <matrix>
+                    <Matrix tx="-92" ty="-3.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

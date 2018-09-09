@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro4" itemID="5b956da1-00000af0" lastModified="1536519585">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro4">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/balloon_scene2_intro" selected="true">
+                  <matrix>
+                    <Matrix a="2.0999755859375" d="2.0999755859375" tx="2.9" ty="73.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.85" y="-3.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_placeoutside" fontRenderingMode="standard" left="-813.8" width="1832.4" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-102.4" ty="-481.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Then we will place the balloon outside for 30 minutes. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

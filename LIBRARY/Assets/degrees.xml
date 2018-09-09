@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/degrees" itemID="5b1547d3-00000268" lastModified="1528121299">
+  <timeline>
+    <DOMTimeline name="degrees">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="52.8" height="71.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.93353271484375" b="0.358322143554688" c="-0.358322143554688" d="0.93353271484375" tx="-11.8" ty="-42.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>15</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-NarrowBold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

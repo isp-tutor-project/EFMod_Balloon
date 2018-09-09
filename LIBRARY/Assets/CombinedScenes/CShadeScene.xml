@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CombinedScenes/CShadeScene" itemID="5abe37bd-00000c1a" lastModified="1522415550">
+  <timeline>
+    <DOMTimeline name="CShadeScene">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#444444" alpha="0.2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1774 3751S2[1215 3774 560 3742!560 3742|560 3720!560 3720|2160 3720!2160 3720|2160 3727!2160 3727[2013 3740 1840 3748!1840 3748[1807 3750 1774 3751!2234 3880[2198 3884 2160 3887!2160 3887|2160 3880!2160 3880|2234 3880"/>
+                    <Edge cubics="!2234 3880(;2212,3882 2189,3884 2160,3887q2234 3880 2160 3887);"/>
+                    <Edge cubics="!2160 3727(;2068,3736 1961,3742 1840,3748q2160 3727 1840 3748);"/>
+                    <Edge cubics="!1840 3748(;1824,3749 1799,3750 1774,3751q1840 3748 1774 3751);"/>
+                    <Edge cubics="!560 3742(;560,3742 560,3720 560,3720q560 3742 560 3720);"/>
+                    <Edge cubics="!2160 3720(;2160,3720 2160,3727 2160,3727q2160 3720 2160 3727);"/>
+                    <Edge cubics="!1774 3751(;1401,3766 997,3763 560,3742q1774 3751Q1215 3774q560 3742);"/>
+                    <Edge cubics="!560 3720(;560,3720 2160,3720 2160,3720q560 3720 2160 3720);"/>
+                    <Edge cubics="!2160 3880(;2160,3880 2160,3887 2160,3887q2160 3880 2160 3887);"/>
+                    <Edge cubics="!2160 3880(;2160,3880 2234,3880 2234,3880q2160 3880 2234 3880);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/BackgroundHill" selected="true" centerPoint3DY="67.05">
+                  <matrix>
+                    <Matrix ty="67.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/AdditionalShadowOpenUmbrella" selected="true" centerPoint3DX="-23.75" centerPoint3DY="149.35">
+                  <matrix>
+                    <Matrix tx="-23.75" ty="149.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Chairs/WoodChair Assets/CWoodChairOutline" selected="true" centerPoint3DX="-53.6" centerPoint3DY="112.55">
+                  <matrix>
+                    <Matrix tx="-53.6" ty="112.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="-0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/Sun" selected="true" centerPoint3DX="154.95" centerPoint3DY="-136.85">
+                  <matrix>
+                    <Matrix tx="154.95" ty="-136.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/COpenUmbrella" selected="true" centerPoint3DX="35.2" centerPoint3DY="-6.95">
+                  <matrix>
+                    <Matrix tx="35.2" ty="-6.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.45" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/BalloonOutline" selected="true" centerPoint3DX="-18.75" centerPoint3DY="-13.75">
+                  <matrix>
+                    <Matrix tx="-18.75" ty="-13.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/NewUmbrellaShadowOpen" selected="true" centerPoint3DX="-8.45" centerPoint3DY="34.6">
+                  <matrix>
+                    <Matrix tx="-8.45" ty="34.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,236 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="598AE5AA62F12D8867B3DE87ED39C33A">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
+          <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlInput__Assets" itemID="5b5cd7d8-000002da"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
+          <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets/Background Assets" itemID="5abe369b-00000403" isExpanded="true"/>
+          <DOMFolderItem name="Assets/Balloon Assets" itemID="5abe3b58-00000c84"/>
+          <DOMFolderItem name="Assets/Balloon Assets/FoilBalloonAssets" itemID="5abe3646-000002e8"/>
+          <DOMFolderItem name="Assets/CanvasChair Assets" itemID="5a37d6c5-00000024"/>
+          <DOMFolderItem name="Assets/Chairs" itemID="5abe369b-00000400"/>
+          <DOMFolderItem name="Assets/Chairs/Chairs" itemID="5a3c1668-000000b2"/>
+          <DOMFolderItem name="Assets/Chairs/Chairs/CanvasChair Assets" itemID="5b92f06c-00001ac3"/>
+          <DOMFolderItem name="Assets/Chairs/Chairs/WoodChair Assets" itemID="5a391994-0000006b"/>
+          <DOMFolderItem name="Assets/Chairs/WoodChair Assets" itemID="5abe369b-0000040a"/>
+          <DOMFolderItem name="Assets/CombinedScenes" itemID="5abe369c-0000042c"/>
+          <DOMFolderItem name="Assets/FoilBalloonAssets" itemID="5a37d737-00000033"/>
+          <DOMFolderItem name="Assets/UmbrellaAssets" itemID="5a37d78a-00000041" isExpanded="true"/>
+          <DOMFolderItem name="Assets/WoodenChair Assets" itemID="5a37d6cf-00000028"/>
+          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4" isExpanded="true"/>
+          <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f" isExpanded="true"/>
+          <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
+     </media>
+     <symbols>
+          <Include href="_HTMLControls/TC_THtmlInput__Assets/InputContainer.xml" loadImmediate="false" itemID="5b633487-0000051f" lastModified="1533228563"/>
+          <Include href="_HTMLControls/TC_THtmlInput__Input1.xml" loadImmediate="false" itemID="5b633529-0000053e" lastModified="1533228606"/>
+          <Include href="_HTMLControls/TC_THtmlList__Assets/listbox.xml" loadImmediate="false" itemID="5b5cea34-000003a3" lastModified="1533050789"/>
+          <Include href="_HTMLControls/TC_THtmlList__List1.xml" loadImmediate="false" itemID="5b5f91b5-00000346" lastModified="1533225790"/>
+          <Include href="_HTMLControls/TC_THtmlList1__CustomList1.xml" loadImmediate="false" itemID="5b707bd7-000006c8" lastModified="1534618188"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
+          <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
+          <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
+          <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
+          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
+          <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
+          <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
+          <Include href="Assets/Background Assets/BackgroundHill.xml" loadImmediate="false" itemID="5abe369c-0000048e" lastModified="1513371627"/>
+          <Include href="Assets/Background Assets/Sun.xml" loadImmediate="false" itemID="5abe369c-00000493" lastModified="1513608946"/>
+          <Include href="Assets/BackgroundHill.xml" loadImmediate="false" itemID="5a3437eb-00000052" lastModified="1513371627"/>
+          <Include href="Assets/balloon_scene_1.5_intro.xml" loadImmediate="false" itemID="5afc41e7-000002bf" lastModified="1526481383"/>
+          <Include href="Assets/balloon_scene_1.75_intro.xml" loadImmediate="false" itemID="5afc424c-000002d3" lastModified="1526481484"/>
+          <Include href="Assets/balloon_scene1_intro.xml" loadImmediate="false" itemID="5afc40f3-00000272" lastModified="1528810614"/>
+          <Include href="Assets/balloon_scene2_intro.xml" loadImmediate="false" itemID="5afc4151-000002a0" lastModified="1528812465"/>
+          <Include href="Assets/balloon_scene3_intro.xml" loadImmediate="false" itemID="5afc429e-000002f4" lastModified="1528810782"/>
+          <Include href="Assets/Balloon Assets/BalloonOutline.xml" loadImmediate="false" itemID="5abd5156-000004e9" lastModified="1522356566"/>
+          <Include href="Assets/Balloon Assets/CFoilBalloonBlack.xml" loadImmediate="false" itemID="5a37d9e1-00000070" lastModified="1513609697"/>
+          <Include href="Assets/Balloon Assets/CFoilBalloonGray.xml" loadImmediate="false" itemID="5b92f06c-00001ad0" lastModified="1513609636"/>
+          <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonBlack.xml" loadImmediate="false" itemID="5a33fdda-00000028" lastModified="1513356762"/>
+          <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonGray.xml" loadImmediate="false" itemID="5b92f06c-00001ad1" lastModified="1513356767"/>
+          <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonShine1.xml" loadImmediate="false" itemID="5b92f06c-00001ad4" lastModified="1513356755"/>
+          <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonShine2.xml" loadImmediate="false" itemID="5b92f06c-00001ad5" lastModified="1513356745"/>
+          <Include href="Assets/Balloon Assets/FoilMaterial.xml" loadImmediate="false" itemID="5abe3f16-00000d0e" lastModified="1522417430"/>
+          <Include href="Assets/Balloon Assets/LatexBalloonMaterial.xml" loadImmediate="false" itemID="5abe3f24-00000d17" lastModified="1522417444"/>
+          <Include href="Assets/balloonstring.xml" loadImmediate="false" itemID="5a381142-00000212" lastModified="1513623903"/>
+          <Include href="Assets/BalloonTemperatureTransmitter.xml" loadImmediate="false" itemID="5a33fdfd-0000002f" lastModified="1513356797"/>
+          <Include href="Assets/BlinkingTransmitter.xml" loadImmediate="false" itemID="5a383176-00000075" lastModified="1513632118"/>
+          <Include href="Assets/Bluearrow.xml" loadImmediate="false" itemID="5af59db1-000003d2" lastModified="1526046287"/>
+          <Include href="Assets/CanvasChair Assets/Canvaschaircloth.xml" loadImmediate="false" itemID="5a343709-0000002a" lastModified="1513371402"/>
+          <Include href="Assets/CanvasChair Assets/Canvaschairframe.xml" loadImmediate="false" itemID="5a34371f-0000002e" lastModified="1513371423"/>
+          <Include href="Assets/CCanvasChair.xml" loadImmediate="false" itemID="5a343739-00000036" lastModified="1513371449"/>
+          <Include href="Assets/CCanvasChairScene.xml" loadImmediate="false" itemID="5abe335d-000001bb" lastModified="1522416117"/>
+          <Include href="Assets/CClosedUmbrella.xml" loadImmediate="false" itemID="5a37d772-0000003c" lastModified="1513609074"/>
+          <Include href="Assets/CFoilBalloonGray.xml" loadImmediate="false" itemID="5a37d9a4-0000005a" lastModified="1513609636"/>
+          <Include href="Assets/CFullSunScene.xml" loadImmediate="false" itemID="5abe38ac-00000c48" lastModified="1522416338"/>
+          <Include href="Assets/Chairs/Chairs/CanvasChair Assets/Canvaschaircloth.xml" loadImmediate="false" itemID="5b92f06c-00001ad9" lastModified="1513371402"/>
+          <Include href="Assets/Chairs/Chairs/CanvasChair Assets/Canvaschairframe.xml" loadImmediate="false" itemID="5b92f06c-00001ad8" lastModified="1513371423"/>
+          <Include href="Assets/Chairs/Chairs/CCanvasChair.xml" loadImmediate="false" itemID="5b92f06c-00001ad7" lastModified="1513371449"/>
+          <Include href="Assets/Chairs/Chairs/CWoodChair.xml" loadImmediate="false" itemID="5b92f06c-00001ada" lastModified="1513371247"/>
+          <Include href="Assets/Chairs/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5b92f06c-00001adb" lastModified="1513371166"/>
+          <Include href="Assets/Chairs/Chairs/WoodChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5b92f06c-00001adc" lastModified="1513371234"/>
+          <Include href="Assets/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5abe369c-00000491" lastModified="1513371166"/>
+          <Include href="Assets/CLatexBalloonGray.xml" loadImmediate="false" itemID="5a37d767-00000039" lastModified="1513609063"/>
+          <Include href="Assets/CombinedScenes/CShadeScene.xml" loadImmediate="false" itemID="5abe37bd-00000c1a" lastModified="1522415550"/>
+          <Include href="Assets/CombinedScenes/CWoodenChairScene.xml" loadImmediate="false" itemID="5abe3394-000001ca" lastModified="1536357019"/>
+          <Include href="Assets/COpenUmbrella.xml" loadImmediate="false" itemID="5a33ff18-00000039" lastModified="1513357080"/>
+          <Include href="Assets/CTemperatureReader.xml" loadImmediate="false" itemID="5a37d6f7-0000002a" lastModified="1528812377"/>
+          <Include href="Assets/CWoodChair.xml" loadImmediate="false" itemID="5a34366f-00000022" lastModified="1513371247"/>
+          <Include href="Assets/deflatedballoon.xml" loadImmediate="false" itemID="5a381295-00000216" lastModified="1513624274"/>
+          <Include href="Assets/degrees.xml" loadImmediate="false" itemID="5b1547d3-00000268" lastModified="1528121299"/>
+          <Include href="Assets/FoilBalloonAssets/FoilBalloonGray.xml" loadImmediate="false" itemID="5a33fddf-00000029" lastModified="1513356767"/>
+          <Include href="Assets/FoilBalloonAssets/FoilBalloonShine1.xml" loadImmediate="false" itemID="5a33fdd3-00000027" lastModified="1513356755"/>
+          <Include href="Assets/FoilBalloonAssets/FoilBalloonShine2.xml" loadImmediate="false" itemID="5a33fdc9-00000026" lastModified="1513356745"/>
+          <Include href="Assets/HandCounting.xml" loadImmediate="false" itemID="5a32a372-0000067b" lastModified="1513268082"/>
+          <Include href="Assets/Handpinching.xml" loadImmediate="false" itemID="5a381c12-000002ef" lastModified="1513626642"/>
+          <Include href="Assets/HeliumTank.xml" loadImmediate="false" itemID="5a380b8e-000001c0" lastModified="1513622414"/>
+          <Include href="Assets/Heliumtankknob.xml" loadImmediate="false" itemID="5a380f8f-000001c7" lastModified="1518108170"/>
+          <Include href="Assets/RQ_ballooncolor_combined.xml" loadImmediate="false" itemID="5abd530f-000005f7" lastModified="1536356601"/>
+          <Include href="Assets/RQ_balloonmaterial_text.xml" loadImmediate="false" itemID="5abe4200-00000d35" lastModified="1536356614"/>
+          <Include href="Assets/RQ_Sunexposure_ballooncombined.xml" loadImmediate="false" itemID="5abe3c0e-00000c97" lastModified="1536356631"/>
+          <Include href="Assets/RQ_TypeofChair_combined.xml" loadImmediate="false" itemID="5abe3478-000001e7" lastModified="1536356654"/>
+          <Include href="Assets/Smallballoon.xml" loadImmediate="false" itemID="5a381882-000002ae" lastModified="1513625730"/>
+          <Include href="Assets/Stopwatch.xml" loadImmediate="false" itemID="5a382e07-0000006c" lastModified="1528810638"/>
+          <Include href="Assets/Stopwatchblank.xml" loadImmediate="false" itemID="5a382e1a-00000071" lastModified="1513631258"/>
+          <Include href="Assets/Sun.xml" loadImmediate="false" itemID="5a37d6f2-00000029" lastModified="1513608946"/>
+          <Include href="Assets/TemperatureGauge.xml" loadImmediate="false" itemID="5ab56082-00000037" lastModified="1528121526"/>
+          <Include href="Assets/UmbrellaAssets/AdditionalShadowOpenUmbrella.xml" loadImmediate="false" itemID="5a37de9b-00000085" lastModified="1513610907"/>
+          <Include href="Assets/UmbrellaAssets/CClosedUmbrella.xml" loadImmediate="false" itemID="5abe369c-00000445" lastModified="1513609074"/>
+          <Include href="Assets/UmbrellaAssets/ClosedUmbrellaShadow.xml" loadImmediate="false" itemID="5a37d7fb-0000004b" lastModified="1513609211"/>
+          <Include href="Assets/UmbrellaAssets/COpenUmbrella.xml" loadImmediate="false" itemID="5abe369c-00000494" lastModified="1513357080"/>
+          <Include href="Assets/UmbrellaAssets/NewUmbrellaShadowOpen.xml" loadImmediate="false" itemID="5a37decc-00000087" lastModified="1513610957"/>
+          <Include href="Assets/WoodenChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5a34361e-00000017" lastModified="1513371166"/>
+          <Include href="Assets/WoodenChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5a343662-0000001e" lastModified="1513371234"/>
+          <Include href="Assets/WoodenChair Assets/WoodChairShadow.xml" loadImmediate="false" itemID="5a343a9a-0000005c" lastModified="1526482896"/>
+          <Include href="Components/TC_TObject__Movie.xml" loadImmediate="false" itemID="5b956dd8-00000af6" lastModified="1536519640"/>
+          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b956de1-00000af7" lastModified="1536519649"/>
+          <Include href="Components/TC_TObject__Vars.xml" loadImmediate="false" itemID="5b956de5-00000af8" lastModified="1536519653"/>
+          <Include href="Exports/TL_Balloon__Movie.xml" loadImmediate="false" itemID="5b956deb-00000af9" lastModified="1536519659"/>
+          <Include href="Exports/TL_Balloon__RQintro1.xml" loadImmediate="false" itemID="5b95718e-00000c84" lastModified="1536520601"/>
+          <Include href="Exports/TL_Balloon__RQintro2.xml" loadImmediate="false" itemID="5b9571a9-00000c8a" lastModified="1536520617"/>
+          <Include href="Exports/TL_Balloon__RQintro3.xml" loadImmediate="false" itemID="5b9571b0-00000c90" lastModified="1536520624"/>
+          <Include href="Exports/TL_Balloon__RQintro4.xml" loadImmediate="false" itemID="5b9571b7-00000c96" lastModified="1536520631"/>
+          <Include href="Exports/TL_Balloon__RQintro5.xml" loadImmediate="false" itemID="5b9571bd-00000c9c" lastModified="1536520637"/>
+          <Include href="Exports/TL_Balloon__RQintro6.xml" loadImmediate="false" itemID="5b9571c4-00000ca2" lastModified="1536520644"/>
+          <Include href="Exports/TL_Balloon__RQmaterials.xml" loadImmediate="false" itemID="5b9571d1-00000ca8" lastModified="1536520657"/>
+          <Include href="Exports/TL_Balloon__RQmovie.xml" loadImmediate="false" itemID="5b9571e0-00000cb4" lastModified="1536520672"/>
+          <Include href="Exports/TL_Balloon__RQvariables.xml" loadImmediate="false" itemID="5b9571d9-00000cae" lastModified="1536520665"/>
+          <Include href="Exports/TL_Balloon__Topic.xml" loadImmediate="false" itemID="5b956df6-00000afb" lastModified="1536519670"/>
+          <Include href="Exports/TL_Balloon__Vars.xml" loadImmediate="false" itemID="5b956def-00000afa" lastModified="1536519663"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5b956d9a-00000aed" lastModified="1536519578"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5b956d9c-00000aee" lastModified="1536519580"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5b956d9e-00000aef" lastModified="1536519582"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" loadImmediate="false" itemID="5b956da1-00000af0" lastModified="1536519585"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" loadImmediate="false" itemID="5b956da3-00000af1" lastModified="1536519587"/>
+          <Include href="Scenes/TC_TScene__RQintro6.xml" loadImmediate="false" itemID="5b956da7-00000af2" lastModified="1536519591"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" loadImmediate="false" itemID="5b956d5a-00000ae5" lastModified="1536519514"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" loadImmediate="false" itemID="5b958469-00000d61" lastModified="1536525551"/>
+          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e69-00000afe" lastModified="1536519785"/>
+          <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                             <transformationPoint>
+                                                  <Point x="959.95" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="_Tutor Global Assets_/TutorModule" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="910" ty="550"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="compositionID">
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="598AE5AA62F12D8867B3DE87ED39C33A" type="String"/>
+   </property>
+   <property id="__ComponentType__">
+      <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version
+0.1
+loop
+true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

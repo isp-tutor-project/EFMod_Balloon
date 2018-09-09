@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/RQ_ballooncolor_combined" itemID="5abd530f-000005f7" lastModified="1536356601" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="RQ_ballooncolor_combined">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonBlack" selected="true">
+                  <matrix>
+                    <Matrix a="2.22575378417969" d="2.22575378417969" tx="209.35" ty="48.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonGray" selected="true">
+                  <matrix>
+                    <Matrix a="2.22575378417969" d="2.22575378417969" tx="-243.6" ty="49.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

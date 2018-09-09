@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b956e69-00000afe" lastModified="1536519785">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQvariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_balloonvariablesintro" fontRenderingMode="standard" top="21.8" left="-849.3" width="1832.4" height="294.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-66.9" ty="-379.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;Below are some variables that might affect the temperature of gas in a balloon. You can test one of these variables in your experiment. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_varballooncolor" fontRenderingMode="standard" left="-190.95" width="386.7" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-85.2" ty="-49.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Color of the Balloon</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_varballoonmaterial" fontRenderingMode="standard" left="-400.55" width="699.45" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="124.4" ty="58.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Material the Balloon is made of </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_varsunlightexposure" fontRenderingMode="standard" left="-241.2" width="1006.35" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-34.95" ty="166.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Amount of Sunlight Exposure the Balloon gets</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_vartypeofchair" fontRenderingMode="standard" top="1.6" left="-190.95" width="958.35" height="63.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-85.2" ty="276.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Type of Chair the Balloon is tied to</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_ballooncolor">
+                  <matrix>
+                    <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="-351.75" ty="-17.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_balloonmaterial">
+                  <matrix>
+                    <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="-351.75" ty="90.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_sunlightexposure">
+                  <matrix>
+                    <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="-351.75" ty="198.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_chairtype">
+                  <matrix>
+                    <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="-351.75" ty="309.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

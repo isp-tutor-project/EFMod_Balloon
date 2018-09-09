@@ -1,0 +1,136 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956de5-00000af8" lastModified="1536519653">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Vars">
+      <layers>
+        <DOMLayer name="Svar4a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/CWoodenChairScene" name="Svar4a" selected="true">
+                  <matrix>
+                    <Matrix tx="258.5" ty="195.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4b" color="#FF800A" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CCanvasChairScene" name="Svar4b">
+                  <matrix>
+                    <Matrix tx="258.5" ty="195.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3a" color="#FF4FFF" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CFullSunScene" name="Svar3a">
+                  <matrix>
+                    <Matrix tx="258.5" ty="195.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-3.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3b" color="#009999" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/CShadeScene" name="Svar3b">
+                  <matrix>
+                    <Matrix tx="258.5" ty="195.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-3.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2a" color="#FF0000" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/FoilMaterial" name="Svar2a">
+                  <matrix>
+                    <Matrix tx="258.5" ty="195.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2b" color="#669900" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/LatexBalloonMaterial" name="Svar2b">
+                  <matrix>
+                    <Matrix tx="258.5" ty="195.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1b" color="#FF4F4F" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonGray" name="Svar1b">
+                  <matrix>
+                    <Matrix a="2.22575378417969" d="2.22575378417969" tx="258.5" ty="195.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1a" color="#00FFFF" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonBlack" name="Svar1a" selected="true">
+                  <matrix>
+                    <Matrix a="2.22575378417969" d="2.22575378417969" tx="258.5" ty="195.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

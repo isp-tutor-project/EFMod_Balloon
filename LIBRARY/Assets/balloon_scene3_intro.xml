@@ -1,0 +1,157 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/balloon_scene3_intro" itemID="5afc429e-000002f4" lastModified="1528810782">
+  <timeline>
+    <DOMTimeline name="balloon_scene3_intro">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BackgroundHill">
+                  <matrix>
+                    <Matrix tx="6.65" ty="66.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/WoodenChair Assets/WoodChairShadow">
+                  <matrix>
+                    <Matrix tx="-114.1" ty="176.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CWoodChair">
+                  <matrix>
+                    <Matrix tx="-46.95" ty="111.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="-0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Sun">
+                  <matrix>
+                    <Matrix tx="161.6" ty="-137.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TemperatureGauge">
+                  <matrix>
+                    <Matrix tx="26.25" ty="0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="75.15" height="157.3" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.174835205078125" b="-0.0462646484375" c="0.0462646484375" d="0.174835205078125" tx="19.45" ty="-4.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.05" y="35.55"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>60&#xD;   </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="77.65" size="60" bitmapSize="1200" face="PTSans-NarrowBold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Assets/CClosedUmbrella">
+                  <matrix>
+                    <Matrix tx="-116.75" ty="-0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/ClosedUmbrellaShadow">
+                  <matrix>
+                    <Matrix tx="-204.1" ty="159.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Stopwatch">
+                  <matrix>
+                    <Matrix tx="-165.05" ty="120.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/HeliumTank">
+                  <matrix>
+                    <Matrix a="0.574752807617188" d="0.52081298828125" tx="70.8" ty="49.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Heliumtankknob" centerPoint3DX="85.45" centerPoint3DY="3.7">
+                  <matrix>
+                    <Matrix a="0.68939208984375" b="-0.57843017578125" c="0.57843017578125" d="0.68939208984375" tx="85.45" ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/BalloonTemperatureTransmitter" centerPoint3DX="5.85" centerPoint3DY="-34.85">
+                  <matrix>
+                    <Matrix tx="5.85" ty="-34.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/BalloonTemperatureTransmitter" centerPoint3DX="5.85" centerPoint3DY="-34.85">
+                  <matrix>
+                    <Matrix tx="5.85" ty="-34.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CLatexBalloonGray" centerPoint3DX="15.2" centerPoint3DY="-15.6">
+                  <matrix>
+                    <Matrix tx="15.2" ty="-15.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="29" height="13.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.2587890625" c="-0.2587890625" d="0.965927124023438" tx="-173.6" ty="105.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0.30</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.4" bitmapSize="240" face="PTMono-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Assets/Handpinching" centerPoint3DX="-217.75" centerPoint3DY="59">
+                  <matrix>
+                    <Matrix a="0.965179443359375" b="-0.25604248046875" c="0.25604248046875" d="0.965179443359375" tx="-217.75" ty="59"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

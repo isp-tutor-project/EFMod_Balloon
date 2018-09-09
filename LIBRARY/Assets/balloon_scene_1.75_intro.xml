@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/balloon_scene_1.75_intro" itemID="5afc424c-000002d3" lastModified="1526481484">
+  <timeline>
+    <DOMTimeline name="balloon_scene_1.75_intro">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BackgroundHill" selected="true">
+                  <matrix>
+                    <Matrix ty="44.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/HeliumTank" selected="true">
+                  <matrix>
+                    <Matrix a="0.574752807617188" d="0.52081298828125" tx="64.15" ty="26.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/balloonstring" selected="true">
+                  <matrix>
+                    <Matrix tx="74.4" ty="7.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.6" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Heliumtankknob" selected="true" centerPoint3DX="75.75" centerPoint3DY="-19.8">
+                  <matrix>
+                    <Matrix a="0.516220092773438" b="-0.737167358398438" c="0.737167358398438" d="0.516220092773438" tx="75.7" ty="-19.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/BalloonTemperatureTransmitter" selected="true" centerPoint3DX="16.85" centerPoint3DY="-32.1">
+                  <matrix>
+                    <Matrix tx="16.85" ty="-32.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Smallballoon" selected="true">
+                  <matrix>
+                    <Matrix a="2.44140625" d="2.44140625" tx="30.8" ty="-55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/HandCounting" selected="true" centerPoint3DX="26.35" centerPoint3DY="6.3">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="26.35" ty="6.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

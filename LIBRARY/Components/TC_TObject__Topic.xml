@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b956de1-00000af7" lastModified="1536519649">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Topic">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="Assets/Background Assets/BackgroundHill" selected="true">
+                      <matrix>
+                        <Matrix tx="258.5" ty="446.4"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Assets/Chairs/Chairs/CWoodChair" selected="true">
+                      <matrix>
+                        <Matrix a="1.466064453125" d="1.466064453125" tx="254.75" ty="410.15"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="-0.25" y="-0.25"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonGray" selected="true">
+                      <matrix>
+                        <Matrix a="1.466064453125" d="1.466064453125" tx="325.65" ty="225.35"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="0.05" y="-0.25"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Assets/TemperatureGauge" selected="true">
+                      <matrix>
+                        <Matrix tx="354.4" ty="245.85"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Assets/Background Assets/Sun" selected="true">
+                      <matrix>
+                        <Matrix tx="452.95" ty="57.5"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/CClosedUmbrella" selected="true">
+                      <matrix>
+                        <Matrix tx="106.7" ty="312.55"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="0.25" y="-0.25"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

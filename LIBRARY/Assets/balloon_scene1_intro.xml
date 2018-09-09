@@ -1,0 +1,141 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/balloon_scene1_intro" itemID="5afc40f3-00000272" lastModified="1528810614">
+  <timeline>
+    <DOMTimeline name="balloon_scene1_intro">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BackgroundHill">
+                  <matrix>
+                    <Matrix tx="6.65" ty="66.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/WoodenChair Assets/WoodChairShadow">
+                  <matrix>
+                    <Matrix tx="-114.1" ty="176.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CWoodChair">
+                  <matrix>
+                    <Matrix tx="-46.95" ty="111.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="-0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Sun">
+                  <matrix>
+                    <Matrix tx="161.6" ty="-137.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CTemperatureReader">
+                  <matrix>
+                    <Matrix tx="-52.6" ty="86.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CClosedUmbrella">
+                  <matrix>
+                    <Matrix tx="-116.75" ty="-0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/ClosedUmbrellaShadow">
+                  <matrix>
+                    <Matrix tx="-204.1" ty="159.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Stopwatch" selected="true">
+                  <matrix>
+                    <Matrix tx="-165.05" ty="120.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/HeliumTank">
+                  <matrix>
+                    <Matrix a="0.574752807617188" d="0.52081298828125" tx="70.8" ty="49.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/balloonstring">
+                  <matrix>
+                    <Matrix tx="81.05" ty="29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.6" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Heliumtankknob">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="84.3" ty="3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/BalloonTemperatureTransmitter">
+                  <matrix>
+                    <Matrix tx="26.45" ty="-12.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/deflatedballoon">
+                  <matrix>
+                    <Matrix tx="26.95" ty="-9.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="31.85" height="13.4" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.2587890625" c="-0.2587890625" d="0.965927124023438" tx="-172.7" ty="106.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0.00</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.4" bitmapSize="240" face="PTMono-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Assets/HandCounting">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="-0.965911865234375" c="0.965911865234375" d="-0.258819580078125" tx="62.35" ty="9.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Chairs/Chairs/CanvasChair Assets/Canvaschairframe" itemID="5b92f06c-00001ad8" lastModified="1513371423">
+  <timeline>
+    <DOMTimeline name="Canvaschairframe">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.45">
+                        <fill>
+                          <SolidColor color="#665D61"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1295 -945S4|758 -53!450 459|381 575!450 459|205 403!205 403|-165 273!-165 273|-477 -506!381 575|955 575!955 575|450 459!381 575|118 1011!758 -53|450 459!758 -53|1065 803!-18 -1286|-96 -1153!-96 -1153|-477 -506!-1188 701|-1295 883!-936
+ 274|-1188 701!-477 -506|-936 274!-96 -1153|1210 -885!118 1011|-48 1287!-1188 701|118 1011!381 575|-936 274"/>
+                    <Edge cubics="!118 1011(;118,1011 -48,1287 -48,1287q118 1011 -48 1287);"/>
+                    <Edge cubics="!-936 274(;-936,274 -1188,701 -1188,701q-936 274 -1188 701);"/>
+                    <Edge cubics="!-1188 701(;-1188,701 -1295,883 -1295,883q-1188 701 -1295 883);"/>
+                    <Edge cubics="!381 575(;381,575 955,575 955,575q381 575 955 575);"/>
+                    <Edge cubics="!381 575(;381,575 118,1011 118,1011q381 575 118 1011);"/>
+                    <Edge cubics="!1295 -945(;1295,-945 758,-53 758,-53q1295 -945 758 -53);"/>
+                    <Edge cubics="!758 -53(;758,-53 450,459 450,459q758 -53 450 459);"/>
+                    <Edge cubics="!450 459(;450,459 381,575 381,575q450 459 381 575);"/>
+                    <Edge cubics="!450 459(;450,459 205,403 205,403q450 459 205 403);"/>
+                    <Edge cubics="!955 575(;955,575 450,459 450,459q955 575 450 459);"/>
+                    <Edge cubics="!381 575(;381,575 -936,274 -936,274q381 575 -936 274);"/>
+                    <Edge cubics="!-477 -506(;-477,-506 -936,274 -936,274q-477 -506 -936 274);"/>
+                    <Edge cubics="!-477 -506(;-477,-506 -165,273 -165,273q-477 -506 -165 273);"/>
+                    <Edge cubics="!-18 -1286(;-18,-1286 -96,-1153 -96,-1153q-18 -1286 -96 -1153);"/>
+                    <Edge cubics="!-96 -1153(;-96,-1153 -477,-506 -477,-506q-96 -1153 -477 -506);"/>
+                    <Edge cubics="!205 403(;205,403 -165,273 -165,273q205 403 -165 273);"/>
+                    <Edge cubics="!-96 -1153(;-96,-1153 1210,-885 1210,-885q-96 -1153 1210 -885);"/>
+                    <Edge cubics="!758 -53(;758,-53 1065,803 1065,803q758 -53 1065 803);"/>
+                    <Edge cubics="!-1188 701(;-1188,701 118,1011 118,1011q-1188 701 118 1011);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
