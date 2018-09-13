@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956d5a-00000ae5" lastModified="1536519514">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956d5a-00000ae5" lastModified="1536596904">
   <timeline>
     <DOMTimeline name="TC_TScene__RQmaterials">
       <layers>
@@ -8,7 +8,7 @@
               <elements>
                 <DOMDynamicText name="S_balloonmaterials" fontRenderingMode="standard" left="-813.8" width="1832.4" height="64.7" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-102.4" ty="-491.95"/>
+                    <Matrix tx="815.8" ty="151.45"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -21,7 +21,7 @@
                 </DOMDynamicText>
                 <DOMSymbolInstance libraryItemName="Assets/CWoodChair">
                   <matrix>
-                    <Matrix a="-1.7249755859375" d="1.7249755859375" tx="463.35" ty="-259.05"/>
+                    <Matrix a="-1.7249755859375" d="1.7249755859375" tx="1381.55" ty="384.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.25" y="-0.25"/>
@@ -29,7 +29,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/HeliumTank">
                   <matrix>
-                    <Matrix a="1.3499755859375" d="1.3499755859375" tx="-45.95" ty="250.05"/>
+                    <Matrix a="1.3499755859375" d="1.3499755859375" tx="872.25" ty="893.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.2" y="0.25"/>
@@ -37,7 +37,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/TemperatureGauge">
                   <matrix>
-                    <Matrix a="6.95469665527344" b="1.86351013183594" c="-1.86351013183594" d="6.95469665527344" tx="-77.65" ty="-241.1"/>
+                    <Matrix a="6.95469665527344" b="1.86351013183594" c="-1.86351013183594" d="6.95469665527344" tx="840.55" ty="402.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.2"/>
@@ -45,7 +45,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Stopwatchblank">
                   <matrix>
-                    <Matrix tx="-547.95" ty="311.8"/>
+                    <Matrix tx="370.25" ty="955.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -53,7 +53,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/CCanvasChair">
                   <matrix>
-                    <Matrix a="1.7249755859375" d="1.7249755859375" tx="685.5" ty="-174.1"/>
+                    <Matrix a="1.7249755859375" d="1.7249755859375" tx="1603.7" ty="469.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -61,7 +61,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/CFoilBalloonGray">
                   <matrix>
-                    <Matrix a="3" d="3" tx="-627.9" ty="-98.6"/>
+                    <Matrix a="3" d="3" tx="290.3" ty="544.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.3"/>
@@ -69,7 +69,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/COpenUmbrella">
                   <matrix>
-                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="564.85" ty="200.05"/>
+                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="1483.05" ty="843.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.5" y="-0.1"/>
@@ -77,7 +77,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/NewUmbrellaShadowOpen">
                   <matrix>
-                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="515.3" ty="255.3"/>
+                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="1433.5" ty="898.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.05"/>
@@ -85,7 +85,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/AdditionalShadowOpenUmbrella">
                   <matrix>
-                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="505.05" ty="374.9"/>
+                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="1423.25" ty="1018.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05"/>
@@ -93,7 +93,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/BalloonTemperatureTransmitter">
                   <matrix>
-                    <Matrix a="4.04997253417969" d="4.04997253417969" tx="62.5" ty="-149"/>
+                    <Matrix a="4.04997253417969" d="4.04997253417969" tx="980.7" ty="494.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -101,7 +101,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Heliumtankknob">
                   <matrix>
-                    <Matrix a="1.75779724121094" d="1.75779724121094" tx="-10.15" ty="129.7"/>
+                    <Matrix a="1.75779724121094" d="1.75779724121094" tx="908.05" ty="773.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-1.95" y="1.5"/>
@@ -109,7 +109,7 @@
                 </DOMSymbolInstance>
                 <DOMDynamicText name="S_balloon" fontRenderingMode="standard" left="-10" width="164" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-603.05" ty="53.8"/>
+                    <Matrix tx="315.15" ty="697.2"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -122,7 +122,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_wirelessreader" fontRenderingMode="standard" left="-72.25" width="431.9" height="109.45" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-221.65" ty="-111.4"/>
+                    <Matrix tx="696.55" ty="532"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -135,7 +135,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_chair" fontRenderingMode="standard" left="12.9" width="118.2" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="409.2" ty="-111.4"/>
+                    <Matrix tx="1327.4" ty="532"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -148,7 +148,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_Stopwatch" fontRenderingMode="standard" left="-18.05" width="180.1" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-623.05" ty="417.7"/>
+                    <Matrix tx="295.15" ty="1061.1"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -161,7 +161,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_heliumtank" fontRenderingMode="standard" left="-36.4" width="216.8" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-94.95" ty="437.7"/>
+                    <Matrix tx="823.25" ty="1081.1"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -174,7 +174,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="S_umbrella" fontRenderingMode="standard" left="-6.25" width="156.5" height="51.75" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="469.2" ty="421.7"/>
+                    <Matrix tx="1387.4" ty="1065.1"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -187,7 +187,7 @@
                 </DOMDynamicText>
                 <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="material_balloon">
                   <matrix>
-                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="-728.05" ty="-94.8"/>
+                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="190.15" ty="548.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.4" y="1.1"/>
@@ -195,7 +195,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="material_wirelesstempreader">
                   <matrix>
-                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="-254.9" ty="-161.3"/>
+                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="663.3" ty="482.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.4" y="1.1"/>
@@ -203,7 +203,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="material_chair">
                   <matrix>
-                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="311.8" ty="-123.5"/>
+                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="1230" ty="519.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.4" y="1.1"/>
@@ -211,7 +211,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="material_stopwatch">
                   <matrix>
-                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="-728.05" ty="324.5"/>
+                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="190.15" ty="967.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.4" y="1.1"/>
@@ -219,7 +219,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="material_heliumtank">
                   <matrix>
-                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="-145.8" ty="324.5"/>
+                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="772.4" ty="967.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.4" y="1.1"/>
@@ -227,10 +227,23 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="material_umbrella">
                   <matrix>
-                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="278.3" ty="208.65"/>
+                    <Matrix a="-0.224899291992188" b="-0.974334716796875" c="0.974334716796875" d="-0.224899291992188" tx="1196.5" ty="852.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-3.4" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
