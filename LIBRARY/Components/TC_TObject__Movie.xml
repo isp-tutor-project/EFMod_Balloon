@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b956dd8-00000af6" lastModified="1536519640">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Movie" itemID="5b956dd8-00000af6" linkageExportForAS="true" linkageClassName="TC_TObject__Movie" lastModified="1537134085">
   <timeline>
-    <DOMTimeline name="TC_TObject__Movie">
+    <DOMTimeline name="TC_TObject__Movie" currentFrame="246">
       <layers>
         <DOMLayer name="hand" color="#00FFFF" locked="true" autoNamed="false" animationType="motion object">
           <frames>
@@ -329,7 +329,7 @@
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="245" duration="82" keyMode="9728">
+            <DOMFrame index="245" duration="2" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/Handpinching" centerPoint3DX="47.4" centerPoint3DY="280.65">
                   <matrix>
@@ -702,7 +702,7 @@
                 </DOMStaticText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="239" duration="88" keyMode="9728">
+            <DOMFrame index="239" duration="8" keyMode="9728">
               <elements>
                 <DOMStaticText selected="true" fontRenderingMode="standard" width="29" height="13.4" autoExpand="true" isSelectable="false">
                   <matrix>
@@ -723,7 +723,7 @@
         </DOMLayer>
         <DOMLayer name="Layer_1" color="#00FFFF" locked="true">
           <frames>
-            <DOMFrame index="0" duration="327" keyMode="9728">
+            <DOMFrame index="0" duration="247" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -790,7 +790,7 @@
                     <Edge fillStyle0="3" fillStyle1="4" edges="
 !6053 4129|6053 4130"/>
                     <Edge strokeStyle="1" edges="
-!6046 4111[6047 4108 6047 4106!6049 4113[6048 4112 6046 4111!6046 4111[6045 4110 6042 4109"/>
+!6049 4113[6048 4112 6046 4111!6046 4111[6045 4110 6042 4109!6046 4111[6047 4108 6047 4106"/>
                     <Edge fillStyle1="2" edges="
 !6034 4088[6039 4087 6045 4086!6045 4086|6067 4082"/>
                     <Edge strokeStyle="1" edges="
@@ -1365,7 +1365,7 @@
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="136" duration="191" keyMode="9728">
+            <DOMFrame index="136" duration="111" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/CLatexBalloonGray" centerPoint3DX="280.35" centerPoint3DY="206.05">
                   <matrix>
@@ -1585,7 +1585,7 @@
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="235" duration="92" keyMode="9728">
+            <DOMFrame index="235" duration="12" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/BalloonTemperatureTransmitter" centerPoint3DX="271" centerPoint3DY="186.8">
                   <matrix>
@@ -1669,7 +1669,7 @@
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="83" duration="244" keyMode="9728">
+            <DOMFrame index="83" duration="164" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/Heliumtankknob" centerPoint3DX="350.6" centerPoint3DY="225.35">
                   <matrix>
@@ -1738,7 +1738,7 @@
         </DOMLayer>
         <DOMLayer name="HeliumTank" color="#9933CC" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="327" keyMode="9728">
+            <DOMFrame index="0" duration="247" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/HeliumTank">
                   <matrix>
@@ -1754,7 +1754,7 @@
         </DOMLayer>
         <DOMLayer name="clock" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="327" keyMode="9728">
+            <DOMFrame index="0" duration="247" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/Stopwatch">
                   <matrix>
@@ -1770,7 +1770,7 @@
         </DOMLayer>
         <DOMLayer name="nosunumbrellaobebeach" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="327" keyMode="9728">
+            <DOMFrame index="0" duration="247" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/CClosedUmbrella">
                   <matrix>
@@ -2115,7 +2115,7 @@
                 </DOMStaticText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="238" duration="89" keyMode="9728">
+            <DOMFrame index="238" duration="9" keyMode="9728">
               <elements>
                 <DOMStaticText fontRenderingMode="standard" width="88.75" height="209.6" isSelectable="false">
                   <matrix>
@@ -2143,7 +2143,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TemperatureGauge" color="#FF4FFF" parentLayerIndex="11" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="TemperatureGauge" color="#FF4FFF" parentLayerIndex="11" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="128" keyMode="9728">
               <elements>
@@ -2181,7 +2181,7 @@
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="154" duration="173" keyMode="9728">
+            <DOMFrame index="154" duration="93" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/TemperatureGauge">
                   <matrix>
@@ -2197,7 +2197,7 @@
         </DOMLayer>
         <DOMLayer name="sun" color="#669900" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="327" keyMode="9728">
+            <DOMFrame index="0" duration="247" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/Sun">
                   <matrix>
@@ -2213,7 +2213,7 @@
         </DOMLayer>
         <DOMLayer name="chair" color="#9933CC" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="327" keyMode="9728">
+            <DOMFrame index="0" duration="247" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/WoodenChair Assets/WoodChairShadow">
                   <matrix>
@@ -2237,7 +2237,7 @@
         </DOMLayer>
         <DOMLayer name="backgroundhill" color="#669900" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="327" keyMode="9728">
+            <DOMFrame index="0" duration="247" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Assets/BackgroundHill">
                   <matrix>
@@ -2251,7 +2251,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_1" color="#00FFFF" locked="true">
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>

@@ -71,7 +71,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_ballooncolor">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_ballooncolor">
                   <matrix>
                     <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="601.95" ty="530.4"/>
                   </matrix>
@@ -79,7 +79,7 @@
                     <Point x="-3.4" y="1.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_balloonmaterial">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_balloonmaterial">
                   <matrix>
                     <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="601.95" ty="637.8"/>
                   </matrix>
@@ -87,7 +87,7 @@
                     <Point x="-3.4" y="1.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_sunlightexposure">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_sunlightexposure">
                   <matrix>
                     <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="601.95" ty="746.6"/>
                   </matrix>
@@ -95,7 +95,7 @@
                     <Point x="-3.4" y="1.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Bluearrow" name="var_chairtype">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__arrow" name="var_chairtype">
                   <matrix>
                     <Matrix a="-0.202392578125" b="-0.87689208984375" c="0.87689208984375" d="-0.202392578125" tx="601.95" ty="857.6"/>
                   </matrix>
@@ -111,7 +111,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>
