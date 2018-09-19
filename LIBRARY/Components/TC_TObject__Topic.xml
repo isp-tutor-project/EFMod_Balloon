@@ -24,7 +24,7 @@
                         <Point x="-0.25" y="-0.25"/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonGray" selected="true">
+                    <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__CFoilBalloonGray" selected="true">
                       <matrix>
                         <Matrix a="1.466064453125" d="1.466064453125" tx="325.65" ty="225.35"/>
                       </matrix>

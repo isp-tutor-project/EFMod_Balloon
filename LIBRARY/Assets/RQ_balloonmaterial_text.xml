@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/LatexBalloonMaterial" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__LatexBalloonMaterial" selected="true">
                   <matrix>
                     <Matrix tx="240.95" ty="44.35"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/FoilMaterial" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__FoilMaterial" selected="true">
                   <matrix>
                     <Matrix tx="-215.15" ty="22.35"/>
                   </matrix>

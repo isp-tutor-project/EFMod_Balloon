@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Balloon Assets/FoilMaterial" itemID="5abe3f16-00000d0e" lastModified="1522417430">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Balloon Assets/TC_TObject__FoilMaterial" itemID="5ba167a7-00001e14" lastModified="1537304487">
   <timeline>
-    <DOMTimeline name="FoilMaterial">
+    <DOMTimeline name="TC_TObject__FoilMaterial">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -67,7 +67,7 @@
                     <Edge cubics="!2736 2461(;2721,2481 2706,2495 2691,2504q2736 2461Q2714 2491q2691 2504);"/>
                   </edges>
                 </DOMShape>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/LatexBalloonMaterial" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__LatexBalloonMaterial" selected="true">
                   <matrix>
                     <Matrix tx="41.2" ty="21.6"/>
                   </matrix>

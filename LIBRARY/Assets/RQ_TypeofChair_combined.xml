@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CCanvasChairScene" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CCanvasChairScene" selected="true">
                   <matrix>
                     <Matrix tx="225.5" ty="28.4"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point y="0.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/CWoodenChairScene" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/TC_TObject__CWoodenChairScene" selected="true">
                   <matrix>
                     <Matrix tx="-225.5" ty="26.4"/>
                   </matrix>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CFullSunScene" itemID="5abe38ac-00000c48" lastModified="1522416338">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__CFullSunScene" itemID="5ba1679a-00001e12" lastModified="1537304474">
   <timeline>
-    <DOMTimeline name="CFullSunScene">
+    <DOMTimeline name="TC_TObject__CFullSunScene">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

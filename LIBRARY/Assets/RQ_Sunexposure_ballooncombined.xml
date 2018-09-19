@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/CShadeScene" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/TC_TObject__CShadeScene" selected="true">
                   <matrix>
                     <Matrix tx="252.55" ty="36.5"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point y="-3.6"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CFullSunScene" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CFullSunScene" selected="true">
                   <matrix>
                     <Matrix tx="-252.5" ty="13.35"/>
                   </matrix>

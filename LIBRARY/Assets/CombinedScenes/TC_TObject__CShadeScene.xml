@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CombinedScenes/CShadeScene" itemID="5abe37bd-00000c1a" lastModified="1522415550">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CombinedScenes/TC_TObject__CShadeScene" itemID="5ba167a0-00001e13" lastModified="1537304480">
   <timeline>
-    <DOMTimeline name="CShadeScene">
+    <DOMTimeline name="TC_TObject__CShadeScene">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

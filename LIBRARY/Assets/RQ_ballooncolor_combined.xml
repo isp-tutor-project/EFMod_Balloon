@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonBlack" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__CFoilBalloonBlack" selected="true">
                   <matrix>
                     <Matrix a="2.22575378417969" d="2.22575378417969" tx="209.35" ty="48.65"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="0.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/CFoilBalloonGray" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__CFoilBalloonGray" selected="true">
                   <matrix>
                     <Matrix a="2.22575378417969" d="2.22575378417969" tx="-243.6" ty="49.1"/>
                   </matrix>

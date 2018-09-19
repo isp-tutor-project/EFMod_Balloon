@@ -57,24 +57,22 @@
           <Include href="Assets/balloon_scene2_intro.xml" loadImmediate="false" itemID="5afc4151-000002a0" lastModified="1528812465"/>
           <Include href="Assets/balloon_scene3_intro.xml" loadImmediate="false" itemID="5afc429e-000002f4" lastModified="1528810782"/>
           <Include href="Assets/Balloon Assets/BalloonOutline.xml" loadImmediate="false" itemID="5abd5156-000004e9" lastModified="1522356566"/>
-          <Include href="Assets/Balloon Assets/CFoilBalloonBlack.xml" loadImmediate="false" itemID="5a37d9e1-00000070" lastModified="1513609697"/>
-          <Include href="Assets/Balloon Assets/CFoilBalloonGray.xml" loadImmediate="false" itemID="5b92f06c-00001ad0" lastModified="1513609636"/>
           <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonBlack.xml" loadImmediate="false" itemID="5a33fdda-00000028" lastModified="1513356762"/>
           <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonGray.xml" loadImmediate="false" itemID="5b92f06c-00001ad1" lastModified="1513356767"/>
           <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonShine1.xml" loadImmediate="false" itemID="5b92f06c-00001ad4" lastModified="1513356755"/>
           <Include href="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonShine2.xml" loadImmediate="false" itemID="5b92f06c-00001ad5" lastModified="1513356745"/>
-          <Include href="Assets/Balloon Assets/FoilMaterial.xml" loadImmediate="false" itemID="5abe3f16-00000d0e" lastModified="1522417430"/>
-          <Include href="Assets/Balloon Assets/LatexBalloonMaterial.xml" loadImmediate="false" itemID="5abe3f24-00000d17" lastModified="1522417444"/>
+          <Include href="Assets/Balloon Assets/TC_TObject__CFoilBalloonBlack.xml" loadImmediate="false" itemID="5ba167bd-00001e17" lastModified="1537304509"/>
+          <Include href="Assets/Balloon Assets/TC_TObject__CFoilBalloonGray.xml" loadImmediate="false" itemID="5ba167b6-00001e16" lastModified="1537304502"/>
+          <Include href="Assets/Balloon Assets/TC_TObject__FoilMaterial.xml" loadImmediate="false" itemID="5ba167a7-00001e14" lastModified="1537304487"/>
+          <Include href="Assets/Balloon Assets/TC_TObject__LatexBalloonMaterial.xml" loadImmediate="false" itemID="5ba167ae-00001e15" lastModified="1537304494"/>
           <Include href="Assets/balloonstring.xml" loadImmediate="false" itemID="5a381142-00000212" lastModified="1513623903"/>
           <Include href="Assets/BalloonTemperatureTransmitter.xml" loadImmediate="false" itemID="5a33fdfd-0000002f" lastModified="1513356797"/>
           <Include href="Assets/BlinkingTransmitter.xml" loadImmediate="false" itemID="5a383176-00000075" lastModified="1513632118"/>
           <Include href="Assets/CanvasChair Assets/Canvaschaircloth.xml" loadImmediate="false" itemID="5a343709-0000002a" lastModified="1513371402"/>
           <Include href="Assets/CanvasChair Assets/Canvaschairframe.xml" loadImmediate="false" itemID="5a34371f-0000002e" lastModified="1513371423"/>
           <Include href="Assets/CCanvasChair.xml" loadImmediate="false" itemID="5a343739-00000036" lastModified="1513371449"/>
-          <Include href="Assets/CCanvasChairScene.xml" loadImmediate="false" itemID="5abe335d-000001bb" lastModified="1522416117"/>
           <Include href="Assets/CClosedUmbrella.xml" loadImmediate="false" itemID="5a37d772-0000003c" lastModified="1513609074"/>
           <Include href="Assets/CFoilBalloonGray.xml" loadImmediate="false" itemID="5a37d9a4-0000005a" lastModified="1513609636"/>
-          <Include href="Assets/CFullSunScene.xml" loadImmediate="false" itemID="5abe38ac-00000c48" lastModified="1522416338"/>
           <Include href="Assets/Chairs/Chairs/CanvasChair Assets/Canvaschaircloth.xml" loadImmediate="false" itemID="5b92f06c-00001ad9" lastModified="1513371402"/>
           <Include href="Assets/Chairs/Chairs/CanvasChair Assets/Canvaschairframe.xml" loadImmediate="false" itemID="5b92f06c-00001ad8" lastModified="1513371423"/>
           <Include href="Assets/Chairs/Chairs/CCanvasChair.xml" loadImmediate="false" itemID="5b92f06c-00001ad7" lastModified="1513371449"/>
@@ -83,8 +81,8 @@
           <Include href="Assets/Chairs/Chairs/WoodChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5b92f06c-00001adc" lastModified="1513371234"/>
           <Include href="Assets/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5abe369c-00000491" lastModified="1513371166"/>
           <Include href="Assets/CLatexBalloonGray.xml" loadImmediate="false" itemID="5a37d767-00000039" lastModified="1513609063"/>
-          <Include href="Assets/CombinedScenes/CShadeScene.xml" loadImmediate="false" itemID="5abe37bd-00000c1a" lastModified="1522415550"/>
-          <Include href="Assets/CombinedScenes/CWoodenChairScene.xml" loadImmediate="false" itemID="5abe3394-000001ca" lastModified="1536357019"/>
+          <Include href="Assets/CombinedScenes/TC_TObject__CShadeScene.xml" loadImmediate="false" itemID="5ba167a0-00001e13" lastModified="1537304480"/>
+          <Include href="Assets/CombinedScenes/TC_TObject__CWoodenChairScene.xml" loadImmediate="false" itemID="5ba1678b-00001e10" lastModified="1537304459"/>
           <Include href="Assets/COpenUmbrella.xml" loadImmediate="false" itemID="5a33ff18-00000039" lastModified="1513357080"/>
           <Include href="Assets/CTemperatureReader.xml" loadImmediate="false" itemID="5a37d6f7-0000002a" lastModified="1528812377"/>
           <Include href="Assets/CWoodChair.xml" loadImmediate="false" itemID="5a34366f-00000022" lastModified="1513371247"/>
@@ -106,6 +104,8 @@
           <Include href="Assets/Stopwatchblank.xml" loadImmediate="false" itemID="5a382e1a-00000071" lastModified="1513631258"/>
           <Include href="Assets/Sun.xml" loadImmediate="false" itemID="5a37d6f2-00000029" lastModified="1513608946"/>
           <Include href="Assets/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7b26-0000237c" lastModified="1537047334"/>
+          <Include href="Assets/TC_TObject__CCanvasChairScene.xml" loadImmediate="false" itemID="5ba16791-00001e11" lastModified="1537304465"/>
+          <Include href="Assets/TC_TObject__CFullSunScene.xml" loadImmediate="false" itemID="5ba1679a-00001e12" lastModified="1537304474"/>
           <Include href="Assets/TemperatureGauge.xml" loadImmediate="false" itemID="5ab56082-00000037" lastModified="1528121526"/>
           <Include href="Assets/UmbrellaAssets/AdditionalShadowOpenUmbrella.xml" loadImmediate="false" itemID="5a37de9b-00000085" lastModified="1513610907"/>
           <Include href="Assets/UmbrellaAssets/CClosedUmbrella.xml" loadImmediate="false" itemID="5abe369c-00000445" lastModified="1513609074"/>
@@ -115,9 +115,9 @@
           <Include href="Assets/WoodenChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5a34361e-00000017" lastModified="1513371166"/>
           <Include href="Assets/WoodenChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5a343662-0000001e" lastModified="1513371234"/>
           <Include href="Assets/WoodenChair Assets/WoodChairShadow.xml" loadImmediate="false" itemID="5a343a9a-0000005c" lastModified="1526482896"/>
-          <Include href="Components/TC_TObject__Movie.xml" itemID="5b956dd8-00000af6" lastModified="1537134085"/>
+          <Include href="Components/TC_TObject__Movie.xml" itemID="5b956dd8-00000af6" lastModified="1537304447"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956de1-00000af7" lastModified="1537036355"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537036357"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537304517"/>
           <Include href="Exports/TL_Balloon__Movie.xml" loadImmediate="false" itemID="5b956deb-00000af9" lastModified="1536519659"/>
           <Include href="Exports/TL_Balloon__RQintro1.xml" loadImmediate="false" itemID="5b95718e-00000c84" lastModified="1536520601"/>
           <Include href="Exports/TL_Balloon__RQintro2.xml" loadImmediate="false" itemID="5b9571a9-00000c8a" lastModified="1536520617"/>
