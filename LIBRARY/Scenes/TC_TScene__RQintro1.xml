@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b956d9a-00000aed" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537048726">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro1" itemID="5b956d9a-00000aed" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro1" lastModified="1537536797">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro1">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF">
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="S_letsseehow" fontRenderingMode="standard" left="-622.15" width="1172" height="77.65" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="S_letsseehow" selected="true" fontRenderingMode="standard" left="-622.15" width="1172" height="77.65" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="996.15" ty="136.05"/>
+                    <Matrix tx="996.15" ty="104.05"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -31,7 +31,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="Layer_2" color="#9933CC">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

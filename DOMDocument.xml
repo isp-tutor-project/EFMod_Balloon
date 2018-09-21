@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="ACC9FB3C7CE7165ADAA99D04112AF445">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="ACC9FB3C7CE7165ADAA99D04112AF445">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -6,8 +6,8 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
-          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/Background Assets" itemID="5abe369b-00000403" isExpanded="true"/>
@@ -23,10 +23,10 @@
           <DOMFolderItem name="Assets/FoilBalloonAssets" itemID="5a37d737-00000033"/>
           <DOMFolderItem name="Assets/UmbrellaAssets" itemID="5a37d78a-00000041" isExpanded="true"/>
           <DOMFolderItem name="Assets/WoodenChair Assets" itemID="5a37d6cf-00000028"/>
-          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -131,19 +131,19 @@
           <Include href="Exports/TL_Balloon__Topic.xml" loadImmediate="false" itemID="5b956df6-00000afb" lastModified="1536519670"/>
           <Include href="Exports/TL_Balloon__Vars.xml" loadImmediate="false" itemID="5b956def-00000afa" lastModified="1536519663"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9643-000008ba" lastModified="1537121625"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956d9a-00000aed" lastModified="1537048726"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956d9c-00000aee" lastModified="1537048723"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956d9e-00000aef" lastModified="1537048721"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b956da1-00000af0" lastModified="1537048720"/>
-          <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5b956da3-00000af1" lastModified="1537048719"/>
-          <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5b956da7-00000af2" lastModified="1537048717"/>
-          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956d5a-00000ae5" lastModified="1537047364"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956d9a-00000aed" lastModified="1537536797"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956d9c-00000aee" lastModified="1537536749"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956d9e-00000aef" lastModified="1537537306"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b956da1-00000af0" lastModified="1537536921"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5b956da3-00000af1" lastModified="1537536957"/>
+          <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5b956da7-00000af2" lastModified="1537537003"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956d5a-00000ae5" lastModified="1537536846"/>
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958469-00000d61" lastModified="1537128851"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e69-00000afe" lastModified="1536596979"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="10">
+          <DOMTimeline name="Scene 1">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -155,14 +155,11 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="Module Content" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro1">
-                                             <matrix>
-                                                  <Matrix tx="-2426.85" ty="-1343.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="960" y="600"/>
                                              </transformationPoint>
@@ -172,9 +169,6 @@
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro2">
-                                             <matrix>
-                                                  <Matrix tx="-2241.9" ty="-1309.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="960" y="600"/>
                                              </transformationPoint>
@@ -184,9 +178,6 @@
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro3">
-                                             <matrix>
-                                                  <Matrix tx="-2320.85" ty="-1377.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="960" y="600"/>
                                              </transformationPoint>
@@ -196,9 +187,6 @@
                               <DOMFrame index="3" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro4">
-                                             <matrix>
-                                                  <Matrix tx="-2059.8" ty="-1307.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="952.5" y="600"/>
                                              </transformationPoint>
@@ -208,9 +196,6 @@
                               <DOMFrame index="4" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro5">
-                                             <matrix>
-                                                  <Matrix tx="-2218.2" ty="-1392.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="939.9" y="600"/>
                                              </transformationPoint>
@@ -220,9 +205,6 @@
                               <DOMFrame index="5" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro6">
-                                             <matrix>
-                                                  <Matrix tx="-2150.9" ty="-1341.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="960" y="600"/>
                                              </transformationPoint>
@@ -232,9 +214,6 @@
                               <DOMFrame index="6" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQmaterials">
-                                             <matrix>
-                                                  <Matrix tx="-2248.9" ty="-1304.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="960" y="600"/>
                                              </transformationPoint>
@@ -244,9 +223,6 @@
                               <DOMFrame index="7" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQmovie">
-                                             <matrix>
-                                                  <Matrix tx="-2510.85" ty="-1266.95"/>
-                                             </matrix>
                                              <transformationPoint>
                                                   <Point x="960" y="600"/>
                                              </transformationPoint>
@@ -255,10 +231,7 @@
                               </DOMFrame>
                               <DOMFrame index="8" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQvariables" selected="true">
-                                             <matrix>
-                                                  <Matrix tx="-2459.85" ty="-1304.95"/>
-                                             </matrix>
+                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQvariables">
                                              <transformationPoint>
                                                   <Point x="960" y="600"/>
                                              </transformationPoint>
@@ -270,7 +243,7 @@
                               </DOMFrame>
                               <DOMFrame index="10" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" selected="true" cacheAsBitmap="true">
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" cacheAsBitmap="true">
                                              <matrix>
                                                   <Matrix tx="-1664.35" ty="-1145.35"/>
                                              </matrix>
@@ -282,7 +255,7 @@
                               </DOMFrame>
                               <DOMFrame index="11" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars">
                                              <matrix>
                                                   <Matrix tx="-1510.4" ty="-998.9"/>
                                              </matrix>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro4" itemID="5b956da1-00000af0" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro4" lastModified="1537048720">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro4" itemID="5b956da1-00000af0" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro4" lastModified="1537536921">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro4">
       <layers>
@@ -6,17 +6,17 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/balloon_scene2_intro">
+                <DOMSymbolInstance libraryItemName="Assets/balloon_scene2_intro" selected="true">
                   <matrix>
-                    <Matrix a="2.0999755859375" d="2.0999755859375" tx="904.9" ty="717.35"/>
+                    <Matrix a="2.0999755859375" d="2.0999755859375" tx="988.9" ty="661.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.85" y="-3.6"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="S_placeoutside" fontRenderingMode="standard" left="-813.8" width="1832.4" height="64.7" isSelectable="false" lineType="multiline">
+                <DOMDynamicText name="S_placeoutside" fontRenderingMode="standard" left="-701.55" width="1732.45" height="64.7" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="799.6" ty="161.95"/>
+                    <Matrix tx="799.6" ty="117.95"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
