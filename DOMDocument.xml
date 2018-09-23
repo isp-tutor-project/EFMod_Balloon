@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="ACC9FB3C7CE7165ADAA99D04112AF445">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="ACC9FB3C7CE7165ADAA99D04112AF445">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -26,7 +26,7 @@
           <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -117,7 +117,7 @@
           <Include href="Assets/WoodenChair Assets/WoodChairShadow.xml" loadImmediate="false" itemID="5a343a9a-0000005c" lastModified="1526482896"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956dd8-00000af6" lastModified="1537304447"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956de1-00000af7" lastModified="1537036355"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537304517"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537725176"/>
           <Include href="Exports/TL_Balloon__Movie.xml" loadImmediate="false" itemID="5b956deb-00000af9" lastModified="1536519659"/>
           <Include href="Exports/TL_Balloon__RQintro1.xml" loadImmediate="false" itemID="5b95718e-00000c84" lastModified="1536520601"/>
           <Include href="Exports/TL_Balloon__RQintro2.xml" loadImmediate="false" itemID="5b9571a9-00000c8a" lastModified="1536520617"/>
@@ -132,8 +132,8 @@
           <Include href="Exports/TL_Balloon__Vars.xml" loadImmediate="false" itemID="5b956def-00000afa" lastModified="1536519663"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9643-000008ba" lastModified="1537121625"/>
           <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956d9a-00000aed" lastModified="1537536797"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956d9c-00000aee" lastModified="1537536749"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956d9e-00000aef" lastModified="1537537306"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956d9c-00000aee" lastModified="1537720491"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956d9e-00000aef" lastModified="1537720494"/>
           <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b956da1-00000af0" lastModified="1537536921"/>
           <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5b956da3-00000af1" lastModified="1537536957"/>
           <Include href="Scenes/TC_TScene__RQintro6.xml" itemID="5b956da7-00000af2" lastModified="1537537003"/>

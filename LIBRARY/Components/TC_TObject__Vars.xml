@@ -1,15 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956de5-00000af8" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537304517">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956de5-00000af8" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537725176">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar4a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar4a" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/TC_TObject__CWoodenChairScene" name="Svar4a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/TC_TObject__CWoodenChairScene" name="Svar4a">
                   <matrix>
                     <Matrix tx="258.5" ty="195.95"/>
                   </matrix>
@@ -21,11 +21,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#FF800A" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CCanvasChairScene" name="Svar4b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CCanvasChairScene" name="Svar4b">
                   <matrix>
                     <Matrix tx="258.5" ty="195.95"/>
                   </matrix>
@@ -37,11 +37,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CFullSunScene" name="Svar3a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CFullSunScene" name="Svar3a">
                   <matrix>
                     <Matrix tx="258.5" ty="195.95"/>
                   </matrix>
@@ -53,11 +53,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#009999" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/TC_TObject__CShadeScene" name="Svar3b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CombinedScenes/TC_TObject__CShadeScene" name="Svar3b">
                   <matrix>
                     <Matrix tx="258.5" ty="195.95"/>
                   </matrix>
@@ -69,11 +69,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#FF0000" autoNamed="false">
+        <DOMLayer name="Svar2a" color="#FF0000" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__FoilMaterial" name="Svar2a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__FoilMaterial" name="Svar2a">
                   <matrix>
                     <Matrix tx="258.5" ty="195.95"/>
                   </matrix>
@@ -85,11 +85,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#669900" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__LatexBalloonMaterial" name="Svar2b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__LatexBalloonMaterial" name="Svar2b">
                   <matrix>
                     <Matrix tx="258.5" ty="195.9"/>
                   </matrix>
@@ -101,11 +101,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1b" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Svar1a" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__CFoilBalloonGray" name="Svar1b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__CFoilBalloonGray" name="Svar1a">
                   <matrix>
                     <Matrix a="2.22575378417969" d="2.22575378417969" tx="258.5" ty="195.9"/>
                   </matrix>
@@ -117,11 +117,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1a" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#00FFFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__CFoilBalloonBlack" name="Svar1a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/TC_TObject__CFoilBalloonBlack" name="Svar1b">
                   <matrix>
                     <Matrix a="2.22575378417969" d="2.22575378417969" tx="258.5" ty="195.95"/>
                   </matrix>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Background Assets/BackgroundHill" selected="true" centerPoint3DY="120.75">
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/BackgroundHill" centerPoint3DY="120.75">
                   <matrix>
                     <Matrix ty="120.75"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Background Assets/Sun" selected="true" centerPoint3DX="172.05" centerPoint3DY="-119.4">
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/Sun" centerPoint3DX="172.05" centerPoint3DY="-119.4">
                   <matrix>
                     <Matrix tx="172.05" ty="-119.4"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Chairs/Chairs/WoodChair Assets/CWoodChairOutline" selected="true" centerPoint3DX="9.95" centerPoint3DY="118.7">
+                <DOMSymbolInstance libraryItemName="Assets/Chairs/Chairs/WoodChair Assets/CWoodChairOutline" centerPoint3DX="9.95" centerPoint3DY="118.7">
                   <matrix>
                     <Matrix tx="9.95" ty="118.7"/>
                   </matrix>
@@ -30,7 +30,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/BalloonOutline" selected="true" centerPoint3DX="56.8" centerPoint3DY="-5.35">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/BalloonOutline" centerPoint3DX="56.8" centerPoint3DY="-5.35">
                   <matrix>
                     <Matrix tx="56.8" ty="-5.35"/>
                   </matrix>
@@ -38,7 +38,7 @@
                     <Point y="-0.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/CClosedUmbrella" selected="true" centerPoint3DX="-92" centerPoint3DY="-3.35">
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/CClosedUmbrella" centerPoint3DX="-92" centerPoint3DY="-3.35">
                   <matrix>
                     <Matrix tx="-92" ty="-3.35"/>
                   </matrix>
