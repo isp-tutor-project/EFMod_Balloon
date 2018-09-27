@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CLatexBalloonBlack" itemID="5baa8013-000007c8" lastModified="1537900563">
+  <timeline>
+    <DOMTimeline name="CLatexBalloonBlack">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonBlack" selected="true" centerPoint3DX="27.8" centerPoint3DY="80.9">
+                  <matrix>
+                    <Matrix a="1.00155639648438" d="1.00155639648438" tx="27.8" ty="80.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

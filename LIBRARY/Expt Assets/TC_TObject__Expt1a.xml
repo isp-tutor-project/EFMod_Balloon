@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt1a" itemID="5babbc82-0000084d" lastModified="1537981570">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt1a">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CLatexBalloonGray" selected="true">
+                  <matrix>
+                    <Matrix tx="211.2" ty="81"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true">
+                  <matrix>
+                    <Matrix tx="2.5" ty="75.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout1a" name="ScallOut" selected="true">
+                  <matrix>
+                    <Matrix tx="29.95" ty="71.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="83.05" y="33.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

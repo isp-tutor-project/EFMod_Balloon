@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="ACC9FB3C7CE7165ADAA99D04112AF445">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="ACC9FB3C7CE7165ADAA99D04112AF445">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_HTMLControls" itemID="5b6f4063-000003e9"/>
@@ -10,9 +10,9 @@
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
-          <DOMFolderItem name="Assets/Background Assets" itemID="5abe369b-00000403" isExpanded="true"/>
+          <DOMFolderItem name="Assets/Background Assets" itemID="5abe369b-00000403"/>
           <DOMFolderItem name="Assets/Balloon Assets" itemID="5abe3b58-00000c84"/>
-          <DOMFolderItem name="Assets/Balloon Assets/FoilBalloonAssets" itemID="5abe3646-000002e8"/>
+          <DOMFolderItem name="Assets/Balloon Assets/FoilBalloonAssets" itemID="5abe3646-000002e8" isExpanded="true"/>
           <DOMFolderItem name="Assets/CanvasChair Assets" itemID="5a37d6c5-00000024"/>
           <DOMFolderItem name="Assets/Chairs" itemID="5abe369b-00000400"/>
           <DOMFolderItem name="Assets/Chairs/Chairs" itemID="5a3c1668-000000b2"/>
@@ -23,8 +23,10 @@
           <DOMFolderItem name="Assets/FoilBalloonAssets" itemID="5a37d737-00000033"/>
           <DOMFolderItem name="Assets/UmbrellaAssets" itemID="5a37d78a-00000041" isExpanded="true"/>
           <DOMFolderItem name="Assets/WoodenChair Assets" itemID="5a37d6cf-00000028"/>
-          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4"/>
+          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4" isExpanded="true"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5baa808b-00000868"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
+          <DOMFolderItem name="Expt Assets" itemID="5baa7942-0000033e" isExpanded="true"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
@@ -80,6 +82,7 @@
           <Include href="Assets/Chairs/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5b92f06c-00001adb" lastModified="1513371166"/>
           <Include href="Assets/Chairs/Chairs/WoodChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5b92f06c-00001adc" lastModified="1513371234"/>
           <Include href="Assets/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5abe369c-00000491" lastModified="1513371166"/>
+          <Include href="Assets/CLatexBalloonBlack.xml" loadImmediate="false" itemID="5baa8013-000007c8" lastModified="1537900563"/>
           <Include href="Assets/CLatexBalloonGray.xml" loadImmediate="false" itemID="5a37d767-00000039" lastModified="1513609063"/>
           <Include href="Assets/CombinedScenes/TC_TObject__CShadeScene.xml" loadImmediate="false" itemID="5ba167a0-00001e13" lastModified="1537304480"/>
           <Include href="Assets/CombinedScenes/TC_TObject__CWoodenChairScene.xml" loadImmediate="false" itemID="5ba1678b-00001e10" lastModified="1537304459"/>
@@ -104,7 +107,7 @@
           <Include href="Assets/Stopwatchblank.xml" loadImmediate="false" itemID="5a382e1a-00000071" lastModified="1513631258"/>
           <Include href="Assets/Sun.xml" loadImmediate="false" itemID="5a37d6f2-00000029" lastModified="1513608946"/>
           <Include href="Assets/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7b26-0000237c" lastModified="1537047334"/>
-          <Include href="Assets/TC_TObject__CCanvasChairScene.xml" loadImmediate="false" itemID="5ba16791-00001e11" lastModified="1537304465"/>
+          <Include href="Assets/TC_TObject__CCanvasChairScene.xml" loadImmediate="false" itemID="5ba16791-00001e11" lastModified="1537899567"/>
           <Include href="Assets/TC_TObject__CFullSunScene.xml" loadImmediate="false" itemID="5ba1679a-00001e12" lastModified="1537304474"/>
           <Include href="Assets/TemperatureGauge.xml" loadImmediate="false" itemID="5ab56082-00000037" lastModified="1528121526"/>
           <Include href="Assets/UmbrellaAssets/AdditionalShadowOpenUmbrella.xml" loadImmediate="false" itemID="5a37de9b-00000085" lastModified="1513610907"/>
@@ -115,9 +118,10 @@
           <Include href="Assets/WoodenChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5a34361e-00000017" lastModified="1513371166"/>
           <Include href="Assets/WoodenChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5a343662-0000001e" lastModified="1513371234"/>
           <Include href="Assets/WoodenChair Assets/WoodChairShadow.xml" loadImmediate="false" itemID="5a343a9a-0000005c" lastModified="1526482896"/>
+          <Include href="Components/TC_TObject__Expt.xml" loadImmediate="false" itemID="5babbe20-000008f1" lastModified="1537982030"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956dd8-00000af6" lastModified="1537304447"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956de1-00000af7" lastModified="1537036355"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537725176"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537899136"/>
           <Include href="Exports/TL_Balloon__Movie.xml" loadImmediate="false" itemID="5b956deb-00000af9" lastModified="1536519659"/>
           <Include href="Exports/TL_Balloon__RQintro1.xml" loadImmediate="false" itemID="5b95718e-00000c84" lastModified="1536520601"/>
           <Include href="Exports/TL_Balloon__RQintro2.xml" loadImmediate="false" itemID="5b9571a9-00000c8a" lastModified="1536520617"/>
@@ -130,6 +134,25 @@
           <Include href="Exports/TL_Balloon__RQvariables.xml" loadImmediate="false" itemID="5b9571d9-00000cae" lastModified="1536520665"/>
           <Include href="Exports/TL_Balloon__Topic.xml" loadImmediate="false" itemID="5b956df6-00000afb" lastModified="1536519670"/>
           <Include href="Exports/TL_Balloon__Vars.xml" loadImmediate="false" itemID="5b956def-00000afa" lastModified="1536519663"/>
+          <Include href="Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
+          <Include href="Expt Assets/TC_TObject__Callout1a.xml" loadImmediate="false" itemID="5babbc32-00000842" lastModified="1537981520"/>
+          <Include href="Expt Assets/TC_TObject__Callout1b.xml" loadImmediate="false" itemID="5babbcbe-0000085c" lastModified="1537981658"/>
+          <Include href="Expt Assets/TC_TObject__Callout2a.xml" loadImmediate="false" itemID="5baa81cb-000008d8" lastModified="1537901004"/>
+          <Include href="Expt Assets/TC_TObject__Callout2b.xml" loadImmediate="false" itemID="5baa8417-00000947" lastModified="1537901591"/>
+          <Include href="Expt Assets/TC_TObject__Callout3a.xml" loadImmediate="false" itemID="5babbb0e-0000082f" lastModified="1537981198"/>
+          <Include href="Expt Assets/TC_TObject__Callout3b.xml" loadImmediate="false" itemID="5babb9d5-00000802" lastModified="1537980885"/>
+          <Include href="Expt Assets/TC_TObject__Callout4a.xml" loadImmediate="false" itemID="5baa825a-000008f1" lastModified="1537901146"/>
+          <Include href="Expt Assets/TC_TObject__Callout4b.xml" loadImmediate="false" itemID="5baa8395-0000092c" lastModified="1537901461"/>
+          <Include href="Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
+          <Include href="Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5babbc82-0000084d" lastModified="1537981570"/>
+          <Include href="Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5babbcf3-00000867" lastModified="1537981683"/>
+          <Include href="Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5baa81f2-000008de" lastModified="1537981315"/>
+          <Include href="Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5baa8441-00000952" lastModified="1537981366"/>
+          <Include href="Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5babbb2e-00000835" lastModified="1537981230"/>
+          <Include href="Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5babb9f8-00000808" lastModified="1537981336"/>
+          <Include href="Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5baa8283-000008fc" lastModified="1537981299"/>
+          <Include href="Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5baa83b5-00000932" lastModified="1537981352"/>
+          <Include href="Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537809302"/>
           <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e9643-000008ba" lastModified="1537121625"/>
           <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956d9a-00000aed" lastModified="1537536797"/>
           <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956d9c-00000aee" lastModified="1537720491"/>
@@ -159,108 +182,12 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro1">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="1" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro2">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="2" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro3">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="3" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro4">
-                                             <transformationPoint>
-                                                  <Point x="952.5" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="4" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro5">
-                                             <transformationPoint>
-                                                  <Point x="939.9" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="5" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQintro6">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="6" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQmaterials">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="7" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQmovie">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="8" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Scenes/TC_TScene__RQvariables">
-                                             <transformationPoint>
-                                                  <Point x="960" y="600"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="9" keyMode="9728">
-                                   <elements/>
-                              </DOMFrame>
-                              <DOMFrame index="10" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" cacheAsBitmap="true">
+                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Expt">
                                              <matrix>
-                                                  <Matrix tx="-1664.35" ty="-1145.35"/>
+                                                  <Matrix tx="560.2" ty="449.9"/>
                                              </matrix>
                                              <transformationPoint>
-                                                  <Point x="258.8" y="245.85"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                              <DOMFrame index="11" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars">
-                                             <matrix>
-                                                  <Matrix tx="-1510.4" ty="-998.9"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="258.5" y="194.45"/>
+                                                  <Point x="329" y="227.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
                                    </elements>

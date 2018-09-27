@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt4b" itemID="5baa83b5-00000932" lastModified="1537981352">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt4b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Chairs/Chairs/CCanvasChair" centerPoint3DX="59.8" centerPoint3DY="59.4">
+                  <matrix>
+                    <Matrix a="0.923873901367188" d="0.923873901367188" tx="59.8" ty="59.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix tx="180.9" ty="48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout4b" name="ScallOut">
+                  <matrix>
+                    <Matrix tx="119.6" ty="51.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.55" y="22.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

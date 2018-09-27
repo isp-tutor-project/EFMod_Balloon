@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt2b" itemID="5baa8441-00000952" lastModified="1537981366">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt2b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#444444" alpha="0.2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9775 7661[9216 7684 8561 7652!8561 7652|8561 7630!8561 7630|10161 7630!10161 7630|10161 7637!10161 7637[10014 7650 9841 7658!9841 7658[9808 7660 9775 7661!10235 7790[10199 7794 10161 7797!10161 7797|10161 7790!10161 7790|10235 7790"/>
+                    <Edge cubics="!10235 7790(;10213,7792 10190,7794 10161,7797q10235 7790 10161 7797);"/>
+                    <Edge cubics="!10161 7637(;10069,7646 9962,7652 9841,7658q10161 7637 9841 7658);"/>
+                    <Edge cubics="!9841 7658(;9825,7659 9800,7660 9775,7661q9841 7658 9775 7661);"/>
+                    <Edge cubics="!8561 7652(;8561,7652 8561,7630 8561,7630q8561 7652 8561 7630);"/>
+                    <Edge cubics="!10161 7630(;10161,7630 10161,7637 10161,7637q10161 7630 10161 7637);"/>
+                    <Edge cubics="!9775 7661(;9402,7676 8998,7673 8561,7652q9775 7661Q9216 7684q8561 7652);"/>
+                    <Edge cubics="!8561 7630(;8561,7630 10161,7630 10161,7630q8561 7630 10161 7630);"/>
+                    <Edge cubics="!10161 7790(;10161,7790 10161,7797 10161,7797q10161 7790 10161 7797);"/>
+                    <Edge cubics="!10161 7790(;10161,7790 10235,7790 10235,7790q10161 7790 10235 7790);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/Sun" centerPoint3DX="538.1" centerPoint3DY="57.5">
+                  <matrix>
+                    <Matrix tx="538.1" ty="57.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/COpenUmbrella" centerPoint3DX="415.25" centerPoint3DY="206.2">
+                  <matrix>
+                    <Matrix a="0.993484497070313" b="0.1138916015625" c="-0.1138916015625" d="0.993484497070313" tx="415.2" ty="206.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Background Assets/BackgroundHill" centerPoint3DX="400.05" centerPoint3DY="262.55">
+                  <matrix>
+                    <Matrix tx="400.05" ty="262.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/AdditionalShadowOpenUmbrella" centerPoint3DX="334.4" centerPoint3DY="396.95">
+                  <matrix>
+                    <Matrix a="0.999191284179688" b="0.039703369140625" c="-0.039703369140625" d="0.999191284179688" tx="334.3" ty="396.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/NewUmbrellaShadowOpen" centerPoint3DX="365.7" centerPoint3DY="265.75">
+                  <matrix>
+                    <Matrix a="0.997833251953125" b="0.065582275390625" c="-0.075042724609375" d="1.14190673828125" tx="365.6" ty="265.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix ty="139.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout2b" name="ScallOut">
+                  <matrix>
+                    <Matrix tx="15.75" ty="115"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.95" y="34.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
