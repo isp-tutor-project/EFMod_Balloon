@@ -9,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TButton__PlayButton" name="Splay" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/NavPanel Components/TC_TButton__PlayButton" name="Splay" symbolType="button">
                   <matrix>
                     <Matrix a="2.42424011230469" d="2.42414855957031" tx="961.2" ty="602"/>
                   </matrix>

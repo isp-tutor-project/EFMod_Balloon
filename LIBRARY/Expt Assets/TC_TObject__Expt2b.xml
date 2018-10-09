@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt2b" itemID="5baa8441-00000952" lastModified="1537981366">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt2b" itemID="5baa8441-00000952" lastModified="1538926660">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt2b">
       <layers>
@@ -72,6 +72,9 @@
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout2b" name="ScallOut">
                   <matrix>
@@ -80,6 +83,9 @@
                   <transformationPoint>
                     <Point x="124.95" y="34.65"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

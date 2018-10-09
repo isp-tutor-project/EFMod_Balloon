@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt2a" itemID="5baa81f2-000008de" lastModified="1537981315">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt2a" itemID="5baa81f2-000008de" lastModified="1538926648">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt2a">
       <layers>
@@ -22,7 +22,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/CClosedUmbrella" selected="true" centerPoint3DX="284" centerPoint3DY="148.9">
+                <DOMSymbolInstance libraryItemName="Assets/UmbrellaAssets/CClosedUmbrella" centerPoint3DX="284" centerPoint3DY="148.9">
                   <matrix>
                     <Matrix tx="284" ty="148.9"/>
                   </matrix>
@@ -37,6 +37,9 @@
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout2a" name="ScallOut">
                   <matrix>
@@ -45,6 +48,9 @@
                   <transformationPoint>
                     <Point x="124.95" y="34.65"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

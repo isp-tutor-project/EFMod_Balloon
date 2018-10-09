@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt4a" itemID="5baa8283-000008fc" lastModified="1537981299">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt4a" itemID="5baa8283-000008fc" lastModified="1538926698">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4a">
       <layers>
@@ -9,7 +9,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TC_TObject__Callout4a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="TC_TObject__Callout4a" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -20,12 +20,15 @@
                   <transformationPoint>
                     <Point x="86.55" y="22.4"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shighlight" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Shighlight" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -36,6 +39,9 @@
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt1b" itemID="5babbcf3-00000867" lastModified="1537981683">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Expt Assets/TC_TObject__Expt1b" itemID="5babbcf3-00000867" lastModified="1538926718">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt1b">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonBlack" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Balloon Assets/FoilBalloonAssets/FoilBalloonBlack">
                   <matrix>
                     <Matrix tx="220.75" ty="80.75"/>
                   </matrix>
@@ -14,21 +14,27 @@
                     <Point x="0.3"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight" selected="true">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Highlight">
                   <matrix>
                     <Matrix ty="75.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout1b" name="ScallOut" selected="true">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Callout1b" name="ScallOut">
                   <matrix>
                     <Matrix tx="21.5" ty="78.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="86.5" y="21.05"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
