@@ -123,7 +123,7 @@
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956dd8-00000af6" lastModified="1537304447"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956de1-00000af7" lastModified="1537036355"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537899136"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90df-00002ebc" lastModified="1539018977"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90df-00002ebc" lastModified="1539114510"/>
           <Include href="Exports/TL_Balloon__Movie.xml" loadImmediate="false" itemID="5b956deb-00000af9" lastModified="1536519659"/>
           <Include href="Exports/TL_Balloon__RQintro1.xml" loadImmediate="false" itemID="5b95718e-00000c84" lastModified="1536520601"/>
           <Include href="Exports/TL_Balloon__RQintro2.xml" loadImmediate="false" itemID="5b9571a9-00000c8a" lastModified="1536520617"/>
