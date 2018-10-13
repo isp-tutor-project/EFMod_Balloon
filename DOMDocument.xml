@@ -23,12 +23,12 @@
           <DOMFolderItem name="Assets/FoilBalloonAssets" itemID="5a37d737-00000033"/>
           <DOMFolderItem name="Assets/UmbrellaAssets" itemID="5a37d78a-00000041" isExpanded="true"/>
           <DOMFolderItem name="Assets/WoodenChair Assets" itemID="5a37d6cf-00000028"/>
-          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5baa808b-00000868"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
-          <DOMFolderItem name="Expt Assets" itemID="5baa7942-0000033e" isExpanded="true"/>
+          <DOMFolderItem name="Expt Assets" itemID="5baa7942-0000033e"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
