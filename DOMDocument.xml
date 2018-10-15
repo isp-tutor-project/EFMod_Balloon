@@ -9,7 +9,7 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
           <DOMFolderItem name="Assets/Background Assets" itemID="5abe369b-00000403"/>
           <DOMFolderItem name="Assets/Balloon Assets" itemID="5abe3b58-00000c84"/>
           <DOMFolderItem name="Assets/Balloon Assets/FoilBalloonAssets" itemID="5abe3646-000002e8" isExpanded="true"/>
@@ -19,7 +19,7 @@
           <DOMFolderItem name="Assets/Chairs/Chairs/CanvasChair Assets" itemID="5b92f06c-00001ac3"/>
           <DOMFolderItem name="Assets/Chairs/Chairs/WoodChair Assets" itemID="5a391994-0000006b"/>
           <DOMFolderItem name="Assets/Chairs/WoodChair Assets" itemID="5abe369b-0000040a"/>
-          <DOMFolderItem name="Assets/CombinedScenes" itemID="5abe369c-0000042c"/>
+          <DOMFolderItem name="Assets/CombinedScenes" itemID="5abe369c-0000042c" isExpanded="true"/>
           <DOMFolderItem name="Assets/FoilBalloonAssets" itemID="5a37d737-00000033"/>
           <DOMFolderItem name="Assets/UmbrellaAssets" itemID="5a37d78a-00000041" isExpanded="true"/>
           <DOMFolderItem name="Assets/WoodenChair Assets" itemID="5a37d6cf-00000028"/>
@@ -28,7 +28,7 @@
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Expt Assets" itemID="5baa7942-0000033e"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -85,6 +85,7 @@
           <Include href="Assets/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5abe369c-00000491" lastModified="1513371166"/>
           <Include href="Assets/CLatexBalloonBlack.xml" loadImmediate="false" itemID="5baa8013-000007c8" lastModified="1537900563"/>
           <Include href="Assets/CLatexBalloonGray.xml" loadImmediate="false" itemID="5a37d767-00000039" lastModified="1513609063"/>
+          <Include href="Assets/CombinedScenes/TC_TObject__CCanvasChairScene.xml" loadImmediate="false" itemID="5bc4c03d-00001ea4" lastModified="1539620953"/>
           <Include href="Assets/CombinedScenes/TC_TObject__CShadeScene.xml" loadImmediate="false" itemID="5ba167a0-00001e13" lastModified="1537304480"/>
           <Include href="Assets/CombinedScenes/TC_TObject__CWoodenChairScene.xml" loadImmediate="false" itemID="5ba1678b-00001e10" lastModified="1537304459"/>
           <Include href="Assets/COpenUmbrella.xml" loadImmediate="false" itemID="5a33ff18-00000039" lastModified="1513357080"/>
@@ -121,8 +122,8 @@
           <Include href="Assets/WoodenChair Assets/WoodChairShadow.xml" loadImmediate="false" itemID="5a343a9a-0000005c" lastModified="1526482896"/>
           <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956dd8-00000af6" lastModified="1537304447"/>
-          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956de1-00000af7" lastModified="1537036355"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1537899136"/>
+          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956de1-00000af7" lastModified="1539620698"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1539621100"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90df-00002ebc" lastModified="1539114510"/>
           <Include href="Exports/TL_Balloon__Movie.xml" loadImmediate="false" itemID="5b956deb-00000af9" lastModified="1536519659"/>
           <Include href="Exports/TL_Balloon__RQintro1.xml" loadImmediate="false" itemID="5b95718e-00000c84" lastModified="1536520601"/>
