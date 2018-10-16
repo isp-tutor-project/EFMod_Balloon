@@ -1,22 +1,22 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb90df-00002ebc" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539114510">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb90df-00002ebc" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539641712">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TTEDExpt__TEDExpt">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" visible="false">
+        <DOMLayer color="#00FFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt3b" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt3b" name="Svar3b" selected="true">
                   <matrix>
                     <Matrix tx="513.1" ty="235.75"/>
                   </matrix>
@@ -28,11 +28,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#FF800A" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt3a" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Expt Assets/TC_TObject__Expt3a" name="Svar3a" selected="true">
                   <matrix>
                     <Matrix tx="591.5" ty="298.9"/>
                   </matrix>
@@ -44,7 +44,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1a" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar1a" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -60,7 +60,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="svar1b" color="#009999" autoNamed="false" visible="false">
+        <DOMLayer name="svar1b" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -152,14 +152,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-15.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="10" ty="-15.45"/>
-                      </matrix>
                       <members>
                         <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight1" selected="true">
                           <matrix>
@@ -197,14 +191,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-15.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="10" ty="-15.45"/>
-                      </matrix>
                       <members>
                         <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight2" selected="true">
                           <matrix>
@@ -242,14 +230,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-15.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="10" ty="-15.45"/>
-                      </matrix>
                       <members>
                         <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight3" selected="true">
                           <matrix>
@@ -317,7 +299,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="TC_TVirtual__ExptRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TVirtual__ExptRgn">
                   <matrix>
                     <Matrix tx="-1" ty="-0.95"/>
                   </matrix>

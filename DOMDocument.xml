@@ -9,7 +9,7 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/Background Assets" itemID="5abe369b-00000403"/>
           <DOMFolderItem name="Assets/Balloon Assets" itemID="5abe3b58-00000c84"/>
           <DOMFolderItem name="Assets/Balloon Assets/FoilBalloonAssets" itemID="5abe3646-000002e8" isExpanded="true"/>
@@ -19,11 +19,11 @@
           <DOMFolderItem name="Assets/Chairs/Chairs/CanvasChair Assets" itemID="5b92f06c-00001ac3"/>
           <DOMFolderItem name="Assets/Chairs/Chairs/WoodChair Assets" itemID="5a391994-0000006b"/>
           <DOMFolderItem name="Assets/Chairs/WoodChair Assets" itemID="5abe369b-0000040a"/>
-          <DOMFolderItem name="Assets/CombinedScenes" itemID="5abe369c-0000042c" isExpanded="true"/>
+          <DOMFolderItem name="Assets/CombinedScenes" itemID="5abe369c-0000042c"/>
           <DOMFolderItem name="Assets/FoilBalloonAssets" itemID="5a37d737-00000033"/>
-          <DOMFolderItem name="Assets/UmbrellaAssets" itemID="5a37d78a-00000041" isExpanded="true"/>
+          <DOMFolderItem name="Assets/UmbrellaAssets" itemID="5a37d78a-00000041"/>
           <DOMFolderItem name="Assets/WoodenChair Assets" itemID="5a37d6cf-00000028"/>
-          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4"/>
+          <DOMFolderItem name="Components" itemID="5b92f0a2-00001ae4" isExpanded="true"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5baa808b-00000868"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Expt Assets" itemID="5baa7942-0000033e"/>
@@ -109,8 +109,10 @@
           <Include href="Assets/Stopwatchblank.xml" loadImmediate="false" itemID="5a382e1a-00000071" lastModified="1513631258"/>
           <Include href="Assets/Sun.xml" loadImmediate="false" itemID="5a37d6f2-00000029" lastModified="1513608946"/>
           <Include href="Assets/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7b26-0000237c" lastModified="1537047334"/>
+          <Include href="Assets/TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
           <Include href="Assets/TC_TObject__CCanvasChairScene.xml" loadImmediate="false" itemID="5ba16791-00001e11" lastModified="1537899567"/>
           <Include href="Assets/TC_TObject__CFullSunScene.xml" loadImmediate="false" itemID="5ba1679a-00001e12" lastModified="1537304474"/>
+          <Include href="Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4377-000022ff" lastModified="1538933623"/>
           <Include href="Assets/TemperatureGauge.xml" loadImmediate="false" itemID="5ab56082-00000037" lastModified="1528121526"/>
           <Include href="Assets/UmbrellaAssets/AdditionalShadowOpenUmbrella.xml" loadImmediate="false" itemID="5a37de9b-00000085" lastModified="1513610907"/>
           <Include href="Assets/UmbrellaAssets/CClosedUmbrella.xml" loadImmediate="false" itemID="5abe369c-00000445" lastModified="1513609074"/>
@@ -124,7 +126,7 @@
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956dd8-00000af6" lastModified="1537304447"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956de1-00000af7" lastModified="1539620698"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956de5-00000af8" lastModified="1539621100"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90df-00002ebc" lastModified="1539114510"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90df-00002ebc" lastModified="1539641712"/>
           <Include href="Exports/TL_Balloon__Movie.xml" loadImmediate="false" itemID="5b956deb-00000af9" lastModified="1536519659"/>
           <Include href="Exports/TL_Balloon__RQintro1.xml" loadImmediate="false" itemID="5b95718e-00000c84" lastModified="1536520601"/>
           <Include href="Exports/TL_Balloon__RQintro2.xml" loadImmediate="false" itemID="5b9571a9-00000c8a" lastModified="1536520617"/>
@@ -167,8 +169,6 @@
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958469-00000d61" lastModified="1537128851"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956e69-00000afe" lastModified="1536596979"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
-          <Include href="TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
-          <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4377-000022ff" lastModified="1538933623"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
